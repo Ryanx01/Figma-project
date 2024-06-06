@@ -27,7 +27,7 @@ body, html {
     align-items: center;
     padding: 20px;
     box-sizing: border-box;
-    background-image: url(fond.jpg);
+    background-image: url(image/fond.jpg);
 }
 
 header {
